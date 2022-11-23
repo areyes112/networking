@@ -12,3 +12,7 @@
 - 22: secure shell for encrypted connections to a server
 - 23: same as port 22 but unencrypted
 
+## Traceroute
+- beginning: 138.197.248.226, New York, NY, USA
+- middle: ae-1.r00.nwrknj03.us.bb.gin.ntt.net, Newark, NJ, USA
+- end: be-302-cr13.beaumeade.va.ibone.comcast.net, Ashville, Virginia, USA
